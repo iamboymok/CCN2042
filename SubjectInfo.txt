@@ -1,0 +1,26 @@
+DS001	Chinese Language	1	1
+DS002	English Language	2	2
+DS003	Mathematics	1.5	1.5
+DS004	Liberal Studies	1	1
+DS005	Biology	1.5	1.5
+DS006	Business	1	1
+DS007	Accounting and Financial Studies	1	1
+DS008	Chemistry	1.5	1.5
+DS009	Chinese History	1	1
+DS010	Chinese Literature	1	1
+DS011	Combined Science	1	2
+DS012	Design and Applied Technology	2	1
+DS013	Economics	1	1
+DS014	Ethics and Religious Studies	1	1
+DS015	Geography	1	1
+DS016	Health Management and Social Care	1	1
+DS017	History	1	1
+DS018	Information and Communication Technology	2	1
+DS019	Integrated Science	1.5	1.5
+DS020	Literature in English	1	1
+DS021	Music	1	1
+DS022	Physical Education	1	1
+DS023	Physics	1	2
+DS024	Technology and Living	1.5	1
+DS025	Tourism and Hospitality Studies	1	1
+DS026	Visual Arts	1	1
